@@ -1,16 +1,15 @@
-## Hi there 👋
+```
+ ____
+< hi >
+ ----
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+I'm Joshua Sun, a guy trying to figure out how computers work
 
-<!--
-**mrSun421/mrSun421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm learning how to make things from scratch
+- Reach me through my [email](mailto:joshuapsun@gmail.com) (joshuapsun@gmail.com)!
+- Learn more about me at [mrsun.tech](https://mrsun.tech)
